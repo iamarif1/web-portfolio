@@ -1,7 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0px;
-    padding: 0px;
 }
 h1{
     font-size: 50px;
@@ -34,8 +33,6 @@ section{
     padding-bottom: 150px;
 }
 .top-banner{
-    background: url(images/top-banner.png);
-    background-size: cover;
-    overflow: hidden;
+    background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
