@@ -37,3 +37,9 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+h2{
+    font-size: 40px;
+}
+.dream-section{
+    padding-left: 9%;
+}
