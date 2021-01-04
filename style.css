@@ -43,3 +43,8 @@ h2{
 .dream-section{
     padding-left: 9%;
 }
+.dream-banner{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
